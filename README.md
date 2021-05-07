@@ -24,3 +24,4 @@ Here are some ideas to get you started:
 <a href="https://linkedin.com/in/rahuldkjain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shantanugupta1118" height="30" width="40" /></a>
 <a href="https://instagram.com/rahul_dk_jain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="shantanugupta1118" height="30" width="40" /></a>
 </p>
+<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=shantanugupta1118&show_icons=true alt=rahuldkjain /> </p>
