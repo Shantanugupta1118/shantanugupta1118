@@ -1,6 +1,31 @@
 <h1 align="center">Hi 👋, I'm Shantanu</h1>
 <h3 align="center">A young-dumb 🤓 Machine Learning Enthusiast/Web/Android Developer from India 🇮🇳</h3>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=shantanugupta1118 alt=rahuldkjain/> </p>
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/shantanug1118" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="shantanugupta1118" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shang1118" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shantanugupta1118" height="30" width="40" /></a>
+<a href="https://instagram.com/shang1118" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="shantanugupta1118" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+    <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
+    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+    <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+    <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+    <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
+      <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+    </p>
+
+<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=shantanugupta1118&show_icons=true alt=rahuldkjain /> </p>
+
+
 <!--
 **Shantanugupta1118/shantanugupta1118** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,13 +40,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/rahuldkjain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="shantanugupta1118" height="30" width="40" /></a>
-<a href="https://dev.to/rahuldkjain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="shantanugupta1118" height="30" width="40" /></a>
-<a href="https://twitter.com/rahuldkjain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="shantanugupta1118" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rahuldkjain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shantanugupta1118" height="30" width="40" /></a>
-<a href="https://instagram.com/rahul_dk_jain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="shantanugupta1118" height="30" width="40" /></a>
-</p>
-<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=shantanugupta1118&show_icons=true alt=rahuldkjain /> </p>
