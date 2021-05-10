@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shantanu</h1>
 <h3 align="center">A young-dumb 🤓 Machine Learning Enthusiast/Web/Android Developer from India 🇮🇳</h3>
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=shantanugupta1118 alt=rahuldkjain/> </p>
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=shantanugupta1118 alt=shantanugupta/> </p>
 
 
 <h3 align="left">Connect with me:</h3>
