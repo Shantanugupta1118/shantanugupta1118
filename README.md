@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shantanu</h1>
-<h3 align="center">A young-dumb 🤓 Machine Learning Enthusiast/Web/Android Developer from India 🇮🇳</h3>
+<h3 align="center">A young-dumb 🤓 Machine Learning Enthusiast/Web/Android Developer from India <img src="https://img.icons8.com/emoji/48/000000/india-emoji.png" alt="indian" height="30" width="30"/></h3>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=shantanugupta1118 alt=shantanugupta/> </p>
 
 
