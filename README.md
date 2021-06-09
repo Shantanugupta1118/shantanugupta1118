@@ -5,6 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://shantanugupta1118.github.io/sg/" target="blank"><img align="center" src="https://img.icons8.com/nolan/126/domain.png" alt="shantanugupta1118" height="40" width="40" /></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/shantanug1118" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/50/000000/twitter.png" alt="shantanugupta1118" height="40" width="40" /></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://linkedin.com/in/shang1118" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin-2--v2.png" alt="shantanugupta1118" height="40" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://instagram.com/shang1118" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" alt="shantanugupta1118" height="40" width="40" /></a>
