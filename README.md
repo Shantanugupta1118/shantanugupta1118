@@ -52,7 +52,7 @@
 [<img align="left" alt="Shantanu | Instagram" height="22px" src="./assests/Instagram.png" />][instagram]
 
 
-[website]: https://shantanugupta1118.github.io/sg/
+[website]: https://shantanugupta1118.github.io/NewtonsGravity/
 [linkedin]: https://www.linkedin.com/in/shang1118
 [stackoverflow]: https://stackoverflow.com/users/11418502/shantanu-gupta
 [gmail]: mailto:shantanuguptaknp6@gmail.com
