@@ -4,10 +4,10 @@
 
 <br>
 
-<h3 &nbsp;About:&nbsp; 👨‍💻</h3>
-<p>👉&nbsp;I'm Shantanu Gupta and Hails from Kanpur, Uttar Pradesh.</p>
-<p>👉&nbsp;I'm doing my B.tech in Computer Science and Engineering from Pranveer Singh Institute of Technology, Kanpur (Batch - 2022)</p>
-<p>👉&nbsp;I'm Specialist in Machine learning and Web Development Area domain.</p>
+### &nbsp;About:&nbsp; 👨‍💻
+- I'm Shantanu Gupta and Hails from Kanpur, Uttar Pradesh. 
+- I'm doing my B.tech in Computer Science and Engineering from Pranveer Singh Institute of Technology, Kanpur (Batch - 2022) 
+- I'm Specialist in Machine learning and Web Development Area domain. 
 
 <h3 align="left">&nbsp;Languages and Tools:&nbsp; 🛠 </h3>
 <p align="left">&nbsp;&nbsp;&nbsp;&nbsp;
