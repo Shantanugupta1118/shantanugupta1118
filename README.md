@@ -4,10 +4,12 @@
 
 <br>
 
-<!-- <h3>👨‍💻 &nbsp;About:</h3>
-- I'm  -->
+<h3 &nbsp;About:&nbsp; 👨‍💻</h3>
+<p>👉&nbsp;I'm Shantanu Gupta and Hails from Kanpur, Uttar Pradesh.</p>
+<p>👉&nbsp;I'm doing my B.tech in Computer Science and Engineering from Pranveer Singh Institute of Technology, Kanpur (Batch - 2022)</p>
+<p>👉&nbsp;I'm Specialist in Machine learning and Web Development Area domain.</p>
 
-<h3 align="left">🛠 &nbsp;Languages and Tools:</h3>
+<h3 align="left">&nbsp;Languages and Tools:&nbsp; 🛠 </h3>
 <p align="left">&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="35" height="35"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://isocpp.org/" target="_blank"> <img src="https://github.com/isocpp/logos/blob/64ef037049f87ac74875dbe72695e59118b52186/cpp_logo.svg" alt="c++" width="35" height="35"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -26,7 +28,7 @@
 ---
     
     
-<h3>⚙️ &nbsp;GitHub Stats:</h3>
+<h3> &nbsp;GitHub Stats:&nbsp; ⚙️</h3>
 <img height="180em" align="left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shantanugupta1118&layout=compact&langs_count=8&theme=algolia"/><img height="182em" align="center" src=https://github-readme-stats.vercel.app/api?username=shantanugupta1118&show_icons=true&layout=compact&langs_count=8&theme=algolia alt=shantanugupta1118 />
 
 <!-- <h3><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">&nbsp;Connect with me:</h3>
