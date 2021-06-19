@@ -5,9 +5,13 @@
 <br>
 
 ### &nbsp;About:&nbsp; 👨‍💻
-- I'm Shantanu Gupta and Hails from Kanpur, Uttar Pradesh. 
-- I'm doing my B.tech in Computer Science and Engineering from Pranveer Singh Institute of Technology, Kanpur (Batch - 2022) 
-- I'm Specialist in Machine learning and Web Development Area domain. 
+- **Motto of my life:** &nbsp; Debugging time increases as a square of the program’s size.. 
+- I'm doing my B.tech in Computer Science and Engineering from *Pranveer Singh Institute of Technology, Kanpur* (Batch - 2022) 
+- I'm a Computer Science Engineer in *Machine learning* and *Web Development* area domain. 
+- I mostly preferred Development field where I can utilise my skills and creativity to solve real life problems.
+- You can ping me on my email at shantanuguptaknp@gmail.com! I'll try to respond as soon as I can.
+- Have a look at my [Portflio](https://linkmn.gr/0bydKX) for more details about me.
+- Please have a look at my [Résumé](shorturl.at/ktBY5) for more details about me. I'm open to feedback and suggestions!.
 
 <h3 align="left">&nbsp;Languages and Tools:&nbsp; 🛠 </h3>
 <p align="left">&nbsp;&nbsp;&nbsp;&nbsp;
@@ -54,7 +58,7 @@
 [<img align="left" alt="Shantanu | Instagram" height="22px" src="./assests/Instagram.png" />][instagram]
 
 
-[website]: https://shantanugupta1118.github.io/NewtonsGravity/
+[website]: https://linkmn.gr/0bydKX
 [linkedin]: https://www.linkedin.com/in/shang1118
 [stackoverflow]: https://stackoverflow.com/users/11418502/shantanu-gupta
 [gmail]: mailto:shantanuguptaknp6@gmail.com
