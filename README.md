@@ -10,8 +10,8 @@
 - I'm a Computer Science Engineer in *Machine learning* and *Web Development* area domain. 
 - I mostly preferred Development field where I can utilise my skills and creativity to solve real life problems.
 - You can ping me on my email at shantanuguptaknp@gmail.com! I'll try to respond as soon as I can.
-- Have a look at my [Portflio](https://linkmn.gr/0bydKX) for more details about me.
-- Please have a look at my [Résumé](shorturl.at/ktBY5) for more details about me. I'm open to feedback and suggestions!.
+- Have a look at my [Portflio](http://bit.ly/hellloshantanu) for more details about me.
+- Please have a look at my [Résumé](http://bit.ly/helloshantanuresume) for more details about me. I'm open to feedback and suggestions!.
 
 <h3 align="left">&nbsp;Languages and Tools:&nbsp; 🛠 </h3>
 <p align="left">&nbsp;&nbsp;&nbsp;&nbsp;
@@ -58,7 +58,7 @@
 [<img align="left" alt="Shantanu | Instagram" height="22px" src="./assests/Instagram.png" />][instagram]
 
 
-[website]: https://linkmn.gr/0bydKX
+[website]: http://bit.ly/hellloshantanu
 [linkedin]: https://www.linkedin.com/in/shang1118
 [stackoverflow]: https://stackoverflow.com/users/11418502/shantanu-gupta
 [gmail]: mailto:shantanuguptaknp6@gmail.com
