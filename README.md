@@ -11,7 +11,7 @@
 - I mostly preferred Development field where I can utilise my skills and creativity to solve real life problems.
 - You can ping me on my email at shantanuguptaknp@gmail.com! I'll try to respond as soon as I can.
 - Have a look at my [Portflio](http://www.helloshantanu.ml/) for more details about me.
-- Please have a look at my [Résumé](http://bit.ly/helloshantanuresume) for more details about me. I'm open to feedback and suggestions!.
+- Please have a look at my [Résumé](https://drive.google.com/drive/folders/1DplgI5bXAGPE-EdUhltKrUeSwsjdewOf?usp=sharing) for more details about me. I'm open to feedback and suggestions!.
 
 <h3 align="left">&nbsp;Languages and Tools:&nbsp; 🛠 </h3>
 <p align="left">&nbsp;&nbsp;&nbsp;&nbsp;
