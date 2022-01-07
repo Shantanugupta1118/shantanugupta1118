@@ -67,4 +67,4 @@
 [twitter]: https://twitter.com/shantanug1118
 [skype]: https://join.skype.com/invite/wQlFVzjJ0jLK
 [facebook]: https://www.facebook.com/shan.gupta1118/
-[instagram]: https://www.instagram.com/_iamshantanu_
+[instagram]: https://www.instagram.com/_imshantanu_
