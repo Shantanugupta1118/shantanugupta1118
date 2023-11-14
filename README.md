@@ -1,6 +1,6 @@
 <img alt="shantanu gupta" src="assests/Code typing (3).gif"/>
 <img alt="Hey" src="assests/Hand-Wave.gif" width='65' align="left"/><h1>Hey there! I'm Shantanu Gupta<img src=https://komarev.com/ghpvc/?username=shantanugupta1118 align="right" alt=shantanugupta/></h1>
-<h3 align="center"><i>A young-dumb 🤓 Machine Learning Enthusiast, Web/Android Developer from India </i><img src="https://img.icons8.com/emoji/48/000000/india-emoji.png" alt="indian" height="30" width="30"/></h3>
+<h3 align="center"><i>A young-dumb 🤓 Data Scientist || Machine Learning Developer from India </i><img src="https://img.icons8.com/emoji/48/000000/india-emoji.png" alt="indian" height="30" width="30"/></h3>
 
 <br>
 
