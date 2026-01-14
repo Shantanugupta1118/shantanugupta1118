@@ -8,7 +8,7 @@
 Hi, I’m **Shantanu** — a backend-focused Software Engineer who loves turning complex ideas into clean, scalable code. I build fast APIs, automate things that should’ve been automated, and break down problems until they make sense.
 
 I enjoy working with **Node.js**, **TypeScript**, and both SQL/NoSQL databases to craft systems that are reliable, secure, and actually fun to maintain. When I’m not coding, I’m usually learning something new, refactoring old logic, or optimizing performance just because it feels satisfying.
-For more details, visit to my [Portflio](https://www.newtonjames.info) for more information about me.
+For more details, visit to my [Portflio](https://www.newtonjames.info) for more information about me or connect with me on [Email](mailto:shantanuguptaknp@gmail.com)
 
 ## 🛠️ Tech Stack
 - **Languages:** JavaScript, TypeScript, Python  
@@ -20,7 +20,7 @@ For more details, visit to my [Portflio](https://www.newtonjames.info) for more 
     
     
 <h3>GitHub Stats:⚙️</h3>
-<img height="180em" align="left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shantanugupta1118&layout=compact&langs_count=8&theme=algolia"/><img height="182em" align="center" src=https://github-readme-stats.vercel.app/api?username=shantanugupta1118&show_icons=false&layout=compact&langs_count=8&theme=algolia alt=shantanugupta1118 />
+<img height="180em" align="left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shantanugupta1118&layout=compact&langs_count=8&theme=algolia"/>
 
 <!-- <h3><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">&nbsp;Connect with me:</h3>
 <p align="left">&nbsp;&nbsp;&nbsp;&nbsp;
@@ -36,11 +36,6 @@ For more details, visit to my [Portflio](https://www.newtonjames.info) for more 
 
 <!-- [<img align="left" alt="Shantanu" height="22px" src="./assests/Web.png" />][website] -->
 [<img align="left" alt="Shantanu | LinkedIn" height="22px" src="./assests/LinkedIn.png" />][linkedin]
-[<img align="left" alt="Shantanu | Stackoverflow" height="22px" src="./assests/StackOverflow.png" />][stackoverflow]
-[<img align="left" alt="Shantanu | Quora" height="22px" src="./assests/Quora.png" />][quora]
-[<img align="left" alt="Shantanu | Telegram" height="22px" src="./assests/Telegram.png" />][telegram]
-[<img align="left" alt="Shantanu | Twitter" height="22px" src="./assests/Twitter.png" />][twitter]
-[<img align="left" alt="Shantanu | Skype" height="22px" src="./assests/Skype.png" />][skype]
 [<img align="left" alt="Shantanu | Facebook" height="22px" src="./assests/Facebook.png" />][facebook]
 [<img align="left" alt="Shantanu | Instagram" height="22px" src="./assests/Instagram.png" />][instagram]
 
