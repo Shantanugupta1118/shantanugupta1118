@@ -5,31 +5,22 @@
 <br>
 
 ### &nbsp;About:&nbsp; 👨‍💻
-- **Motto of my life:** &nbsp; Debugging time increases as a square of the program’s size..
-- Working as a Backend Developer - Software Engineer at Service Based Company.
-- Did my B.tech in Computer Science and Engineering from *Pranveer Singh Institute of Technology, Kanpur* (Batch - 2022) 
-- I'm a Computer Science Engineer in *Backend Developer* & *Machine learning* area domain. 
-- I mostly prefer the Development field where I can utilize my skills and creativity to solve real-life problems.
-- You can ping me on my email at shantanuguptaknp@gmail.com! I'll try to respond as soon as I can.
-<!-- - Have a look at my [Portflio](http://www.helloshantanu.ml/) for more details about me. -->
-- Please have a look at my [Résumé](https://drive.google.com/file/d/1B9OBq7XMUbGSI9gaZ3kuS8uTrrGHGsB9/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
+Hi, I’m **Shantanu** — a backend-focused Software Engineer who loves turning complex ideas into clean, scalable code. I build fast APIs, automate things that should’ve been automated, and break down problems until they make sense.
 
-<h3 align="left">&nbsp;Languages and Tools:&nbsp; 🛠 </h3>
-<p align="left">&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://nodejs.org/en" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="NodeJs" width="35" height="35"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="35" height="35"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://isocpp.org/" target="_blank"> <img src="https://github.com/isocpp/logos/blob/64ef037049f87ac74875dbe72695e59118b52186/cpp_logo.svg" alt="c++" width="35" height="35"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="35" height="35"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="35" height="35"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;
-      <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="35"/> </a>&nbsp;&nbsp;&nbsp;&nbsp; 
-    </p>
-    
----
+I enjoy working with **Node.js**, **TypeScript**, and both SQL/NoSQL databases to craft systems that are reliable, secure, and actually fun to maintain. When I’m not coding, I’m usually learning something new, refactoring old logic, or optimizing performance just because it feels satisfying.
+For more details, visit to my [Portflio](https://www.newtonjames.info) for more information about me.
+
+## 🛠️ Tech Stack
+- **Languages:** JavaScript, TypeScript, Python  
+- **Backend:** Node.js, Express.js, REST APIs, Microservices  
+- **Databases:** MongoDB, PostgreSQL, Redis  
+- **DevOps:** Docker, GitHub Actions, CI/CD  
+- **Tools:** Postman, Jest, WebSockets  
+
     
     
-<h3> &nbsp;GitHub Stats:&nbsp; ⚙️</h3>
-<img height="180em" align="left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shantanugupta1118&layout=compact&langs_count=8&theme=algolia"/><img height="182em" align="center" src=https://github-readme-stats.vercel.app/api?username=shantanugupta1118&show_icons=true&layout=compact&langs_count=8&theme=algolia alt=shantanugupta1118 />
+<h3>GitHub Stats:⚙️</h3>
+<img height="180em" align="left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shantanugupta1118&layout=compact&langs_count=8&theme=algolia"/><img height="182em" align="center" src=https://github-readme-stats.vercel.app/api?username=shantanugupta1118&show_icons=false&layout=compact&langs_count=8&theme=algolia alt=shantanugupta1118 />
 
 <!-- <h3><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">&nbsp;Connect with me:</h3>
 <p align="left">&nbsp;&nbsp;&nbsp;&nbsp;
@@ -54,13 +45,8 @@
 [<img align="left" alt="Shantanu | Instagram" height="22px" src="./assests/Instagram.png" />][instagram]
 
 
-[website]: http://www.helloshantanu.ml/
-[linkedin]: https://www.linkedin.com/in/shang1118
-[stackoverflow]: https://stackoverflow.com/users/11418502/shantanu-gupta
+[website]: https://www.newtonjames.info/
 [gmail]: mailto:shantanuguptaknp6@gmail.com
-[quora]: https://www.quora.com/profile/Shantanu-Gupta-144
-[telegram]: https://telegram.me/Shantanu1118
-[twitter]: https://twitter.com/shantanug1118
-[skype]: https://join.skype.com/invite/wQlFVzjJ0jLK
+[linkedin]: https://www.linkedin.com/in/shang1118
 [Facebook]: https://www.facebook.com/shan.gupta1118/
 [instagram]: https://www.instagram.com/_imshantanu_
