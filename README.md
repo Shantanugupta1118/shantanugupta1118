@@ -8,7 +8,7 @@
 Hi, I’m **Shantanu** — a backend-focused Software Engineer who loves turning complex ideas into clean, scalable code. I build fast APIs, automate things that should’ve been automated, and break down problems until they make sense.
 
 I enjoy working with **Node.js**, **TypeScript**, and both SQL/NoSQL databases to craft systems that are reliable, secure, and actually fun to maintain. When I’m not coding, I’m usually learning something new, refactoring old logic, or optimizing performance just because it feels satisfying.
-For more details, visit to my [Portflio](https://www.newtonjames.info) for more information about me or connect with me on [Email](mailto:shantanuguptaknp@gmail.com)
+For more details, visit to my [Portflio](http://newtongravty.in/) for more information about me or connect with me on [Email](mailto:shantanuguptaknp@gmail.com)
 
 ## 🛠️ Tech Stack
 - **Languages:** JavaScript, TypeScript, Python  
@@ -40,7 +40,7 @@ For more details, visit to my [Portflio](https://www.newtonjames.info) for more 
 [<img align="left" alt="Shantanu | Instagram" height="22px" src="./assests/Instagram.png" />][instagram]
 
 
-[website]: https://www.newtonjames.info/
+[website]: [https://www.newtonjames.info/](http://newtongravty.in/)
 [gmail]: mailto:shantanuguptaknp6@gmail.com
 [linkedin]: https://www.linkedin.com/in/shang1118
 [Facebook]: https://www.facebook.com/shan.gupta1118/
