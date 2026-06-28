@@ -1,6 +1,6 @@
 <img alt="shantanu gupta" src="assests/Code typing (3).gif" />
 <img alt="Hey" src="assests/Hand-Wave.gif" width='65' align="left"/><h1>Hey there! I'm Shantanu Gupta<img src=https://komarev.com/ghpvc/?username=shantanugupta1118 align="right" alt=shantanugupta/></h1>
-<h3 align="center"><i>Backend Engineer building scalable backend systems with Node.js, PostgreSQL, Redis, and TypeScript.</i><img src="https://img.icons8.com/emoji/48/000000/india-emoji.png" alt="indian" height="30" width="30"/></h3>
+<h3 align="center"><i>Backend Engineer building scalable backend systems with <br> Node.js, PostgreSQL, Redis, and TypeScript.</i><img src="https://img.icons8.com/emoji/48/000000/india-emoji.png" alt="indian" height="30" width="30"/></h3>
 
 <br>
 
