@@ -1,26 +1,104 @@
-<img alt="shantanu gupta" src="assests/Code typing (3).gif"/>
+<img alt="shantanu gupta" src="assests/Code typing (3).gif" />
 <img alt="Hey" src="assests/Hand-Wave.gif" width='65' align="left"/><h1>Hey there! I'm Shantanu Gupta<img src=https://komarev.com/ghpvc/?username=shantanugupta1118 align="right" alt=shantanugupta/></h1>
 <h3 align="center"><i>Backend Engineer building scalable backend systems with Node.js, PostgreSQL, Redis, and TypeScript.</i><img src="https://img.icons8.com/emoji/48/000000/india-emoji.png" alt="indian" height="30" width="30"/></h3>
 
 <br>
 
-### &nbsp;About:&nbsp; 👨‍💻
-Hi, I’m **Shantanu** — a backend-focused Software Engineer who loves turning complex ideas into clean, scalable code. I build fast APIs, automate things that should’ve been automated, and break down problems until they make sense.
+### 👨‍💻 About Me
 
-I enjoy working with **Node.js**, **TypeScript**, and both SQL/NoSQL databases to craft systems that are reliable, secure, and actually fun to maintain. When I’m not coding, I’m usually learning something new, refactoring old logic, or optimizing performance just because it feels satisfying.
-For more details, visit to my [Portflio](http://newtongravty.in/) for more information about me or connect with me on [Email](mailto:shantanuguptaknp@gmail.com)
+```typescript
+const shantanu = {
+  role: "Backend Engineer",
+  experience: "4+ Years",
+  specialization: [
+  "Scalable Backend Systems",
+  "REST API Development",
+  "Authentication & Authorization",
+  "Performance Optimization"
+    ],
+  currentFocus: [
+    "System Design",
+    "Low-Level Design",
+    "Distributed Systems"
+  ],
+  currentlyBuilding: "NexaCore 🚀"
+};
+```
 
-## 🛠️ Tech Stack
-- **Languages:** JavaScript, TypeScript, Python  
-- **Backend:** Node.js, Express.js, REST APIs, Microservices  
-- **Databases:** MongoDB, PostgreSQL, Redis  
-- **DevOps:** Docker, GitHub Actions, CI/CD  
-- **Tools:** Postman, Jest, WebSockets  
+I build **scalable backend systems** and **production-grade APIs** using **Node.js**, **Express.js**, **PostgreSQL**, **Redis**, and **TypeScript**.
 
-    
-    
-<h3>GitHub Stats:⚙️</h3>
-<img height="180em" align="left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shantanugupta1118&layout=compact&langs_count=8&theme=algolia"/>
+My passion lies in designing maintainable software, optimizing performance, and building backend architectures that scale from startups to enterprise applications.
+
+## 🚀 Currently Building
+
+### 🚀 NexaCore
+
+> Production-ready Backend Starter Kit
+
+⚙️ Inspired by real-world SaaS backend architecture.
+
+### Features
+
+- 🔐 JWT Authentication
+- 🔑 OAuth2 Login
+- 👥 RBAC Authorization
+- ⚡ Redis Caching
+- 🗄️ PostgreSQL + Prisma
+- 📄 Swagger Documentation
+- 🧪 Testing
+- 🐳 Docker
+- 🚀 GitHub Actions
+- 🏗️ Clean Architecture
+
+> 🚧 Work in Progress
+
+## 🛠 Engineering Stack
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+### Database
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### DevOps
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+### Testing
+
+![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+## 💡 Areas of Interest
+
+```text
+✔ Backend Architecture
+✔ API Design
+✔ System Design
+✔ Low-Level Design (LLD)
+✔ Performance Engineering
+✔ Scalable Backend Systems
+✔ Distributed Systems
+```
+<!--
+## 📈 GitHub Stats
+
+<p align="center">
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=shantanugupta1118&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shantanugupta1118&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=shantanugupta1118&theme=tokyonight&hide_border=true"/>
+</p>
+-->
 
 <!-- <h3><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">&nbsp;Connect with me:</h3>
 <p align="left">&nbsp;&nbsp;&nbsp;&nbsp;
@@ -32,16 +110,21 @@ For more details, visit to my [Portflio](http://newtongravty.in/) for more infor
  -->
  
  ---
- ### Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
+## 🤝 Let's Connect
 
-<!-- [<img align="left" alt="Shantanu" height="22px" src="./assests/Web.png" />][website] -->
-[<img align="left" alt="Shantanu | LinkedIn" height="22px" src="./assests/LinkedIn.png" />][linkedin]
-[<img align="left" alt="Shantanu | Facebook" height="22px" src="./assests/Facebook.png" />][facebook]
-[<img align="left" alt="Shantanu | Instagram" height="22px" src="./assests/Instagram.png" />][instagram]
+<p align="left">
+<a href="https://www.linkedin.com/in/shang1118">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
+<a href="https://www.newtongravty.in">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
-[website]: [https://www.newtonjames.info/](http://newtongravty.in/)
-[gmail]: mailto:shantanuguptaknp6@gmail.com
-[linkedin]: https://www.linkedin.com/in/shang1118
-[Facebook]: https://www.facebook.com/shan.gupta1118/
-[instagram]: https://www.instagram.com/_imshantanu_
+<a href="mailto:shantanuguptaknp@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
+⭐ If you like my work, consider giving a ⭐ to my repositories.
+
